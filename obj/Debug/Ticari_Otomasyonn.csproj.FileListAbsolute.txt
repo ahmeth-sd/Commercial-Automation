@@ -1,0 +1,67 @@
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\bin\Debug\Ticari_Otomasyonn.exe.config
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\bin\Debug\Ticari_Otomasyonn.exe
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\bin\Debug\Ticari_Otomasyonn.pdb
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.csprojAssemblyReference.cache
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Form1.resources
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Properties.Resources.resources
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.csproj.GenerateResource.cache
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.exe
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.pdb
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Musteri_Ekle.resources
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Müşteriler.resources
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Personeller.resources
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Personel_Ekle.resources
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Urunler.resources
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Ürün_ekle.resources
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Ürün__sil.resources
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Personel_Sil.resources
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.kayit_bul.resources
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Musteri_Duzenle.resources
+C:\Users\HP-W10\source\repos\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Musteri_Sil.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\bin\Debug\Ticari_Otomasyonn.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\bin\Debug\Ticari_Otomasyonn.exe
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\bin\Debug\Ticari_Otomasyonn.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.csprojAssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Musteri_Ekle.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Müşteriler.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Personeller.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Personel_Ekle.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Properties.Resources.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Urunler.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Ürün_ekle.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.csproj.GenerateResource.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.exe
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Fatura_Ekle.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Faturalar.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Gider_Ekle.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Giderler.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Form2.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Form1.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Kullanıcı_EkleSil.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Hakkımızda.resources
+C:\Users\ahmet\OneDrive\Masaüstü\Proje Ödevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.İletişim.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\bin\Debug\Ticari_Otomasyonn.exe.config
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\bin\Debug\Ticari_Otomasyonn.exe
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\bin\Debug\Ticari_Otomasyonn.pdb
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.csprojAssemblyReference.cache
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Faturalar.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Fatura_Ekle.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Form1.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Gider_Ekle.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Giderler.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Form2.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Hakkımızda.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Kullanıcı_EkleSil.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Musteri_Ekle.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Müşteriler.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Personeller.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Personel_Ekle.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Urunler.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.Ürün_ekle.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.İletişim.resources
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.csproj.GenerateResource.cache
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.exe
+C:\Users\Ahmet\Desktop\ProjeÖdevi\Ticari_Otomasyonn\Ticari_Otomasyonn\obj\Debug\Ticari_Otomasyonn.pdb
